@@ -1,18 +1,24 @@
-# Data Storytelling Dashboard, E-Commerce Analytics
+# Streamlit Sales Dashboard - Portfolio Project
 
-An interactive **data visualization and analytics dashboard** that transforms raw e-commerce data into **actionable business insights**.  
-Built with **Python**, **Streamlit**, and **Plotly**, this project demonstrates advanced **data storytelling**, combining statistical analysis, cohort segmentation, and dynamic visualization.
+## Overview
+This is a sales analytics dashboard built using Python and Streamlit.  
+I forked this project and customized it to demonstrate interactive KPIs, charts, and insights for portfolio purposes.
 
----
+## Tech Stack
+- Python (Pandas, Matplotlib)
+- Streamlit (Interactive dashboard)
+- CSV dataset
 
-## Project Overview
+## Features
+- KPI cards
+- Monthly trend chart
+- Category-wise sales chart
+- Interactive dataset preview
 
-This dashboard simulates a full-fledged analytics workflow for an e-commerce company.  
-It provides end-to-end functionality from data ingestion and cleaning to **KPI reporting**, **customer segmentation**, **retention analysis**, and **geographical sales intelligence**.
+## Live Demo
+(Deploy using Streamlit Community Cloud)
 
-The project is powered by a **synthetic dataset** (4,000+ orders across 2 years, 1,600+ customers, 10+ countries, and 5 categories).  
 
----
 
 ## Objectives
 
